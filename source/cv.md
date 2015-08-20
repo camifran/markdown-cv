@@ -1,5 +1,7 @@
 ---
 title: Camila Francisca Cortés Contreras
+birthdate: 24/05/1986
+rut: 16.155.102-3
 street: Sargento Aldea 555 B1 404
 city: Chillán, Bío Bío, Chile
 phone: (569) 82710243
